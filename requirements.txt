@@ -1,0 +1,7 @@
+SPARQLWrapper
+PyQt5
+requests
+python-dotenv
+chromadb
+streamlit
+sentence-transformers
