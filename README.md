@@ -40,9 +40,9 @@ cisco-product-ui
    ```
 
 3. **Run the application:**
-   Execute the main window script to start the application:
+   Execute the ui_app with streamlit to start the application:
    ```
-   python src/ui/main_window.py
+   streamlit run src/ui_app.py
    ```
 
 ## Usage Guidelines
