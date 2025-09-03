@@ -1,6 +1,6 @@
-# Cisco Product UI Application
+# Cisco Product Graph Based RAG
 
-This project is a user interface application designed to query data about Cisco products using SPARQL queries. It leverages the functionality provided in the `graph_connection.py` file to interact with a SPARQL endpoint.
+This project is an application designed to query data about Cisco products using SPARQL queries. It leverages the functionality provided in the `graph_connection.py` file to interact with a SPARQL endpoint.
 
 ## Project Structure
 
